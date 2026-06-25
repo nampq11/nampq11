@@ -8,6 +8,15 @@ Outside of coding, I enjoy playing online games ️🎮 and playing the football
 - LLMs: alignment, optimizing serving, quantization, RAG, Agents and other cool stuff.
 - Embedding model: Text embedding for better retrieval system.
 
+## Writing
+I have <!-- writing-count starts -->3<!-- writing-count ends --> writing entries from my reading list.
+
+<!-- writing starts -->
+* [A practical evaluation loop for RAG assistants](https://nampq11.github.io/posts/rag-evaluation-loop.html) - Thu, 25 Jun 2026
+* [What makes healthcare chatbots difficult](https://nampq11.github.io/posts/healthcare-chatbot-lessons.html) - Thu, 18 Jun 2026
+* [Designing an appointment scheduling agent](https://nampq11.github.io/posts/appointment-scheduling-agent.html) - Thu, 11 Jun 2026
+<!-- writing ends -->
+
 <!-- Github Stats -->
 <!-- <div align="center">
   <a href="#/"><img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nampq11&show_icons=true&line_height=28&hide_border=true&hide_title=true&count_private=true&include_all_commits=true&card_width=450&role=OWNER,COLLABORATOR&exclude_repo=github-readme-stats" alt="Github Stats (loading...)"></a>
