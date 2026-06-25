@@ -1,15 +1,14 @@
-# Hey 👋
+### Hey 👋
 I'm **Nam, a 24-year-old AI engineer** who works to solve exciting problems through technology.
 Outside of coding, I enjoy playing online games ️🎮 and playing the football ⚽.
 
 (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
 
-## My Research Interests:
+### My Research Interests:
 - LLMs: alignment, optimizing serving, quantization, RAG, Agents and other cool stuff.
 - Embedding model: Text embedding for better retrieval system.
 
-## Writing
-I have <!-- writing-count starts -->3<!-- writing-count ends --> writing entries from my reading list.
+### Writing
 
 <!-- writing starts -->
 * [A practical evaluation loop for RAG assistants](https://nampq11.github.io/posts/rag-evaluation-loop.html) - Thu, 25 Jun 2026
@@ -24,6 +23,8 @@ I have <!-- writing-count starts -->3<!-- writing-count ends --> writing entries
 </div>
 >
 ***
+
+View the archives (<!-- writing_count starts -->3<!-- writing_count ends --> posts) @ [nampq11.github.io](https://nampq11.github.io).
 
 <!-- Social buttons -->
 <div align="center">

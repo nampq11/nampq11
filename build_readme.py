@@ -92,7 +92,7 @@ if __name__ == '__main__':
     rewritten_entries = replace_writing(readme, 'writing', entries_md)
     rewritten_count = replace_writing(
         rewritten_entries,
-        'writing-count',
+        'writing_count',
         str(entry_count),
         inline=True,
     )
