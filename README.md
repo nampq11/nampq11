@@ -1,5 +1,5 @@
 # Hey 👋
-I'm **Nam, a 23-year-old AI engineer** who works to solve exciting problems through technology.
+I'm **Nam, a 24-year-old AI engineer** who works to solve exciting problems through technology.
 Outside of coding, I enjoy playing online games ️🎮 and playing the football ⚽.
 
 (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
