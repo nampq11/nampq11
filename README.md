@@ -18,10 +18,10 @@ Outside of coding, I enjoy playing online games ️🎮 and playing the football
 
 <!-- Github Stats -->
 <!-- <div align="center"-->
+<div>
   <a href="#/"><img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nampq11&show_icons=true&line_height=28&hide_border=true&hide_title=true&count_private=true&include_all_commits=true&card_width=450&role=OWNER,COLLABORATOR&exclude_repo=github-readme-stats" alt="Github Stats (loading...)"></a>
   <a href="#/"><img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nampq11&langs_count=8&layout=compact&hide_border=true&hide=html,typescript,postscript,jupyter%20notebook&role=OWNER,COLLABORATOR" alt="Language Stats (loading...)"></a>
 </div>
->
 
 View the archives (<!-- writing_count starts -->3<!-- writing_count ends --> posts) @ [nampq11.github.io](https://nampq11.github.io).
 
